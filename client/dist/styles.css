@@ -1,0 +1,28 @@
+body {
+  width: 90%;
+  margin: 0 auto;
+  font-style: Verdana;
+}
+
+button {
+  border: none;
+  margin-left: 15px;
+}
+
+section {
+
+  border-bottom: 1.5px black solid;
+}
+
+.watchToggle {
+  margin-top: 20px;
+}
+.watchToggle button {
+  margin: 0;
+  width: 80px;
+}
+
+.movieView p {
+  display: inline-block;
+  margin-right: 100px;
+}
